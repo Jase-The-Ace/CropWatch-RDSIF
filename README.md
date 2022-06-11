@@ -4,7 +4,7 @@ CropWatch is a project application written in python and built to deliver intera
 
 To utilise CropWatch, as a reference the following things are needed:
 
--  a PrivateKey (this was not included int he repository but is required for the codes functions to work).
+-  a PrivateKey (this was not included in the repository but is required for the codes functions to work).
 - Access to an AMI project
 
 - earthengine-api (EE) (Google) Earth Engine API 
