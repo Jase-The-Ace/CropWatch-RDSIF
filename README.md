@@ -19,4 +19,6 @@ To utilise CropWatch-RDSIF as a reference, the following things are needed:
 
 - Link to the open source version GitHub repository: https://github.com/Jase-The-Ace/CropWatch-RDSIF
 
+- Link to the final presentation video: https://www.youtube.com/watch?v=u4bBrR0L0UY
+
 - Please refer to the user manual for detailed usage information.
