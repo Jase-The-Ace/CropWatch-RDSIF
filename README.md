@@ -1,4 +1,4 @@
-# CropWatch: Real-time delivery of spatial-temporal information for farmers.
+# CropWatch: Real-time Delivery of Spatial-temporal Information for Farmers.
 
 CropWatch-RDSIF is a project application written in python and built to deliver interactive maps to farmers, showing details of their crops over time.  The data for the maps are time-series data obtained from satellites and other spatiotemporal sources. The application gathers the data from the farms and paddocks via information retrieved from the satellite and other spatiotemporal sources, it then runs cloud-functions on the google cloud platform to export important bands of data. This data is then stored in the a BigQuery database, where the data is further processed and separated into different subsets which are used to create data visualisation reports in DataStudio, that contain maps, graphs and charts that provide transformations and calculations upon the data to provide useful information and insights to farmers, that span back from the current day up to 3 years prior to the current date. 
 
